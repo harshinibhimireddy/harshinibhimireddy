@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=180&amp;section=header&amp;text=Harshini%20Bhimireddy&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=45" />
 
-<h3>Tech Enthusiast &nbsp; ML Explorer &nbsp;|&nbsp; Hackathon Finalist</h3>
+<h3>Tech Enthusiast &nbsp;|&nbsp; ML Explorer &nbsp;|&nbsp; Hackathon Finalist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sree-harshini-bhimireddy/" target="_blank">
