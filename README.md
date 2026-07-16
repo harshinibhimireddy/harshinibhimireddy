@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Harshini%20Bhimireddy&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Tech%20Enthusiast%20%7C%20Data%20Science%20%26%20ML%20Explorer%20%7C%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=16&amp;descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=180&amp;section=header&amp;text=Harshini%20Bhimireddy&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=45" />
+
+<h3>Tech Enthusiast &nbsp; ML Explorer &nbsp;|&nbsp; Hackathon Finalist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sree-harshini-bhimireddy/" target="_blank">
@@ -18,6 +20,7 @@
 
 ```txt
 🎓  B.Tech CSE @ Amrita Vishwa Vidyapeetham
+🏆  Finalist — Odoo Hackathon 2025
 💻  Love building real-world solutions from front-end to AI pipelines
 🔬  Exploring AI
 🤝  Open to collaborations, internships & impactful projects
