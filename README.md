@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Harshini%20Bhimireddy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Tech%20Enthusiast%20%7C%20Data%20Science%20%26%20ML%20Explorer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Harshini%20Bhimireddy&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Tech%20Enthusiast%20%7C%20Data%20Science%20%26%20ML%20Explorer%20%7C%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=16&amp;descColor=ffffff" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sree-harshini-bhimireddy/" target="_blank">
